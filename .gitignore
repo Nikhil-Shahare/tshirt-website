@@ -1,0 +1,26 @@
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore user-specific configuration files
+*.user
+*.suo
+
+# Ignore package-lock files (used in npm)
+package-lock.json
+
+# Ignore node_modules directory (used in Node.js projects)
+node_modules/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore temporary and backup files
+*~
